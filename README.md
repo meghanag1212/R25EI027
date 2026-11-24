@@ -4,3 +4,13 @@ Hello! I am an engineering student pursuing B.Tech in Computer Science and Engin
 sCurrently learning: Python programming.
 Interested in: Cybersecurity and blockchain technology.
 Goal: Build practical skills and contribute to open-source projects.
+## Projects
+
+### 1. Line Editor in C
+Developed a menu-driven line editor using C programming, supporting insertion, deletion, display, saving, and loading of text.
+
+### 2. Concert Booking System
+Working on a web-based concert booking application with React and Supabase to manage user bookings and ticket details.
+
+### 3. Personal Portfolio
+Building a personal engineering portfolio to document my programming skills, projects, and learning journey.
